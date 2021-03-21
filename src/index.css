@@ -1,0 +1,27 @@
+body {
+  background: grey;
+  font-size: 2em;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.box{
+  background: gold;
+  border: 2px solid black;
+  text-align: center;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1{
+  text-align: center;
+}
